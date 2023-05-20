@@ -20,7 +20,7 @@ The repository includes the following implemented software testing processes:
 
 - 🌐  **Automated UI Testing/SeleniumTestFiles**: The Automated UI Testing directory focuses on automated UI testing using Selenium, a widely used tool for web application testing. It provides sample test files that demonstrate how to automate the interaction with web elements and validate the behavior of the user interface.
 
-🔧 ## Technologies
+## Technologies🔧
 
 The project utilizes the following technologies:
 
@@ -31,6 +31,6 @@ The project utilizes the following technologies:
 - Mutation testing frameworks
 - Selenium (for automated UI testing)
 
-🤝## Contributing
+## Contributing🤝
 
 Contributions to this project are welcome. If you find any issues, have suggestions for improvements, or want to contribute to the software testing implementations, please feel free to submit a pull request or open an issue.
