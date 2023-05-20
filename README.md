@@ -2,11 +2,11 @@
 
 ## Repository Summary
 
-🧪This repository contains my implementation of various software testing processes. Software testing processes include JUnit testing, Python mocking, mutation testing, automated UI testing, and code smell fixing.
+This repository contains my implementation of various software testing processes. Software testing processes include JUnit testing, Python mocking, mutation testing, automated UI testing, and code smell fixing.
 
-## Overview
+## Overview🔍
 
-🔍The Software Testing Repository focuses on exploring different software testing techniques and methodologies to ensure the quality and reliability of software applications. By leveraging the power of JUnit, Python mocking libraries, mutation testing frameworks, automated UI testing tools, and code analysis techniques, the project aims to demonstrate effective testing practices that can be applied in real-world software development scenarios.
+The Software Testing Repository focuses on exploring different software testing techniques and methodologies to ensure the quality and reliability of software applications. By leveraging the power of JUnit, Python mocking libraries, mutation testing frameworks, automated UI testing tools, and code analysis techniques, the project aims to demonstrate effective testing practices that can be applied in real-world software development scenarios.
 
 ## Implemented Software Testing Processes
 
